@@ -1,5 +1,7 @@
 # Amazon Signup UI Clone – Frontend Web Development
 
+Educational UI Clone – Not affiliated with Amazon
+
 - Developed an Amazon-inspired signup and sign-in page.
 - Designed a clean and user-friendly interface.
 - Created input fields for mobile number or email.
