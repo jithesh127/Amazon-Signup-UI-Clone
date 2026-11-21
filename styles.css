@@ -1,0 +1,86 @@
+body{
+   margin: 0px;
+   background-color: white;
+   padding: 0%;
+}
+.inner-div{
+    display: flex;
+    justify-content: center;
+    padding: 14px 18px 18px;
+    background: linear-gradient(to bottom,#fff,#eee);
+    border-bottom: 1px solid rgba(0,0,0,.17);
+}
+.logo-edit{
+    font-size: 20px;
+    background-color: white;
+}
+.signup-form{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    text-align: left;
+    margin: 20px auto;
+    width: 350px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+h2{
+    margin-bottom: 0px;
+}
+
+.hi{
+    flex-wrap: wrap;
+    line-height: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button-div{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.signup-btn{
+    background-color: yellow;
+    color: black;
+    border: 0px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 100%;
+}
+
+small{
+    font-size: medium;
+}
+
+.hr{
+    width: 80%;
+    border: 0;
+    height: 1px;
+    background-color: lightgray;
+    margin: 15px auto;
+}
+a{
+    color: #0066c0;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: #0066c0;
+}
+a:hover{
+    color: #0066c0;
+
+}
+.sam{
+    text-decoration: none;
+}
+.sam:hover{
+    text-decoration: underline;
+}
