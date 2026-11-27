@@ -1,13 +1,26 @@
-# Amazon Signup UI Clone – Frontend Web Development
+# Amazon-Inspired Sign-In UI | HTML & CSS
 
-Educational UI Clone – Not affiliated with Amazon
+A frontend practice project recreating an Amazon-inspired sign-in interface to practice page structure and visual styling.
 
-- Developed an Amazon-inspired signup and sign-in page.
-- Designed a clean and user-friendly interface.
-- Created input fields for mobile number or email.
-- Added a Continue button.
-- Included Conditions of Use and Privacy Notice links.
-- Added a Business Account section.
-- Integrated Amazon logo and favicon.
-- **Technologies:** HTML5, CSS3.
-- **Purpose:** Practicing frontend web development and UI design.
+> Educational UI exercise only. Not affiliated with or endorsed by Amazon. No real sign-in or account creation is supported.
+
+## Built With
+HTML5 · CSS3
+
+## Highlights
+- Email/mobile input layout and Continue button
+- Conditions of Use and Privacy Notice links
+- Business-account section
+- Logo and favicon integration
+- Clean, user-focused page styling
+
+## Run Locally
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open the HTML entry page in your browser.
+
+## Scope
+Static frontend practice only; no backend, authentication, or credential processing.
+
+---
+Created by **Jithesh D** · [GitHub](https://github.com/jithesh127)
